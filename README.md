@@ -31,7 +31,7 @@ Download invoice templates in your preferred file format.
 - [Excel Invoice Templates](https://www.eonebill.ai/invoice-templates/excel) - Excel (.xlsx) format with auto-calculating totals.
 - [Google Docs Invoice Templates](https://www.eonebill.ai/invoice-templates/google-docs) - Open directly in Google Docs, no download needed.
 - [Google Sheets Invoice Templates](https://www.eonebill.ai/invoice-templates/google-sheets) - Open directly in Google Sheets with formula support.
-- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice generator — enter seller, buyer, line items, and tax; print or save as PDF. No account. CC0.
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice generator — enter seller, buyer, line items, and tax; print or save as PDF. No account. CC0. [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-invoice-templates-v1) adds white-label PDFs, 6 templates, unlimited batch CLI.
 ## AI Invoice Generator
 Skip the template. Describe your work in plain English and generate a finished invoice in seconds.
 - [Eonebill AI Invoice Generator](https://www.eonebill.ai) - AI-powered invoicing for freelancers and small businesses. Create, send, and track invoices instantly.
