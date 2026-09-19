@@ -35,6 +35,7 @@ Download invoice templates in your preferred file format.
 Skip the template. Describe your work in plain English and generate a finished invoice in seconds.
 - [Eonebill AI Invoice Generator](https://www.eonebill.ai) - AI-powered invoicing for freelancers and small businesses. Create, send, and track invoices instantly.
 - [Free AI Invoice Generator](https://www.eonebill.ai/free-trial) - No signup required. Generate your first invoice in seconds.
+- [Client Close Kit Invoice Generator](https://darweesh128-cmd.github.io/client-close-kit/invoice-generator.html) - Free browser-only invoice generator for freelancers. No signup, no watermark, data stays local.
 ---
 ## Contributing
 Contributions welcome. Please read the [contribution guidelines](CONTRIBUTING.md) first.
