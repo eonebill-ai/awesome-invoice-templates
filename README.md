@@ -41,3 +41,5 @@ Contributions welcome. Please read the [contribution guidelines](CONTRIBUTING.md
 ## License
 [MIT](LICENSE)
 ```
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit) — Free browser tools for freelancers (invoice, proposal, timesheet, deposit calculator) — no signup
