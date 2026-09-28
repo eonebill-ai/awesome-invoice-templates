@@ -18,6 +18,7 @@ Free invoice templates designed for specific roles and work styles.
 - [Social Media Manager Invoice Template](https://www.eonebill.ai/invoice-templates/professional-services/social-retainer) - Monthly retainer invoice for social planning and publishing.
 - [Virtual Assistant Invoice Template](https://www.eonebill.ai/invoice-templates/professional-services/virtual-assistant-desk) - Task-led invoice for admin support and recurring operations.
 - [IT Consultant Invoice Template](https://www.eonebill.ai/invoice-templates/professional-services/it-consultant-audit) - Formal invoice for IT audits, infrastructure review, and support.
+- [Billia Invoice Templates](https://billia.app/invoice-template/) - Free invoice templates for 30+ trades and professions; generate and download the PDF in the browser, no signup required.
 ## By Industry
 Templates organized by business type and sector.
 - [Professional Services Invoice Template](https://www.eonebill.ai/invoice-templates/professional-services) - Full collection for consulting, freelance, and agency teams.
